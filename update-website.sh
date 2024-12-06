@@ -1,0 +1,1 @@
+cd ~ && cd pub && rm -r * && git clone https://github.com/Maxwell-L-hack/website && cd website && mv * ~/pub
